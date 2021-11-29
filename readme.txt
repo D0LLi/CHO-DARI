@@ -1,2 +1,3 @@
 AMD
 NVIDIA
+INTEL
