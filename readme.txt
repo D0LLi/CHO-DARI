@@ -1,3 +1,0 @@
-AMD
-NVIDIA
-INTEL
